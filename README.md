@@ -23,3 +23,13 @@ Make sure Python is installed on your system.
 
 ```bash
 python3 NumberGuessingGame.py
+```
+## ✅ Requirements
+- Python 3.x
+## 🚀 Future Improvements
+- Limit the number of attempts
+- Add difficulty levels
+- Keep score
+- Restart option
+## 👤 Author
+Khaled Fahad Al-Hamad
